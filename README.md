@@ -1,7 +1,6 @@
 <div align="center">
 
 
-
 ### Akıllı Bisiklet Paylaşım ve Ulaşım Entegrasyon Platformu
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -348,7 +347,7 @@ flutter test integration_test/  # Uçtan uca testler
 
 Bu proje **MIT Lisansı** kapsamında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
----
+--- 
 
 <div align="center">
 
